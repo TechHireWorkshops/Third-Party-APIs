@@ -1,6 +1,5 @@
 const input = document.querySelector('input');
 const button = document.querySelector('button');
-const key = `54e9b766effdfd90601182075151bcbe`;
 const city = 'http://api.openweathermap.org/data/2.5/weather?q='
 const zip = `http://api.openweathermap.org/data/2.5/weather?zip=`
 const div = document.querySelector('div');
